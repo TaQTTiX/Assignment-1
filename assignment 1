@@ -1,0 +1,8 @@
+START
+
+INPUT "number of hours worked per day"
+  number of hours worked per week = number of hours worked per day * 5
+
+  number of hours worked per tear = number of hours worked per week * 52
+
+END
