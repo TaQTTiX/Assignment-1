@@ -5,4 +5,7 @@ INPUT "number of hours worked per day"
 
   number of hours worked per tear = number of hours worked per week * 52
 
+SHOW "hours worked in one week"  hoursPerWeek
+SHOW "hours worked in one year" hoursPerYear
+
 END
