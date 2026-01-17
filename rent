@@ -1,0 +1,6 @@
+START 
+
+INPUT yearly total for rent
+yearly total for rent / 365 = daily rent cost
+
+END
