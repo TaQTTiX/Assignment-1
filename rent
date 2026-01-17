@@ -1,6 +1,8 @@
 START 
 
-INPUT yearly total for rent
-yearly total for rent / 365 = daily rent cost
+INPUT yearly rent toal
+  IF lived for whole year / 365
+yearly rent total / 365 = daily rent cost
+  ELSE total amount of rent paid / days rented
 
 END
