@@ -1,0 +1,10 @@
+START 
+
+INPUT coffee pod into coffee maker
+  place vessel to catch coffee
+    IF on press button to start   
+      pour milk into cup of ice
+        pour brewed coffee into cup of ice and milk stir
+    THEN turn on coffee maker  
+
+END
