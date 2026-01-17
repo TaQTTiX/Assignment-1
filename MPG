@@ -1,0 +1,7 @@
+START
+
+  INPUT milesDriven
+  INPUT gallonsUsed
+    milesDriven / gallonsUsed = miles per gallon
+
+END
